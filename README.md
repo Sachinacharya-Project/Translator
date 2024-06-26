@@ -1,2 +1,3 @@
 # Translator
-Translate String into any specified language
+
+Translate your lannguage to any other languages.
