@@ -1,3 +1,3 @@
 # Translator
 
-Translate your lannguage to any other languages.
+Translate your language to any other language.
